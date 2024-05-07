@@ -6,6 +6,8 @@ Absolutely! As a MERN Stack Developer with a robust portfolio boasting 16 live p
 
 Check out my work !
 01. About Me
+
+
 Hey there! 👋 I'm a tech enthusiast hailing from the heart of India, Indore, where the "corn" is not just a snack but an emotion! Graduated as a Computer Engineer in 2021—my journey in tech started with a mix of dreams and a truckload of NPM errors.
 
 Location: Currently setting up camp in Indore, where even the pigeons are tech-savvy (they use GPS for those impressive flybys! 🐦)
