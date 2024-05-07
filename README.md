@@ -5,8 +5,6 @@ Coding Dreams into Digital Reality.
 Absolutely! As a MERN Stack Developer with a robust portfolio boasting 16 live projects, your expertise is a fusion of cutting-edge technology and practical application. You've honed your skills in crafting dynamic and responsive web applications using MongoDB, Express.js, React, and Node.js—showcasing your ability to create seamless user experiences. With a passion for problem-solving and a knack for turning ideas into functional realities, you're not just seeking freelance opportunities, you're poised to revolutionize digital landscapes with your innovative solutions.
 
 Check out my work !
-01. About Me
-
 
 Hey there! 👋 I'm a tech enthusiast hailing from the heart of India, Indore, where the "corn" is not just a snack but an emotion! Graduated as a Computer Engineer in 2021—my journey in tech started with a mix of dreams and a truckload of NPM errors.
 
