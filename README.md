@@ -12,7 +12,7 @@ Location: Currently setting up camp in Indore, where even the pigeons are tech-s
 Work Palette: I've dabbled in the realms of MERN, AWS, and Azure—taming the cloud while juggling Docker and Kubernetes. If you hear someone talking to servers, that's probably me negotiating for more uptime!
 Joke #1: Why did the developer go broke? Because he used up all his cache! 💸
 
-Experience: A 2.3-year expedition in the tech wilderness, wandering through 16 live projects. If bugs were pesos, I'd be a millionaire by now!
+Experience: A 4-year expedition in the tech wilderness, wandering through 30+ live projects. If bugs were pesos, I'd be a millionaire by now!
 Joke #2: Why was the JavaScript developer sad? Because he didn’t know how to 'null' his feelings. 😢
 
 Methodology: Agile Scrum is my jam—turning chaos into a choreographed dance of user stories and sprints. It's like conducting an orchestra, but with code!
